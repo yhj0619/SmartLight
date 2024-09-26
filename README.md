@@ -32,7 +32,7 @@
 
 ---
 
-## 👩‍💻 기술 스택
+## ✔️ 기술 스택
 
 - **YOLO (You Only Look Once)**: 객체 인식 및 상황 분석 AI 모델
 - **Jetson Nano**: 실시간 객체 인식 및 처리
