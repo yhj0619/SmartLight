@@ -1,0 +1,18 @@
+names:
+- desktop-person
+- eating-person
+- notebook-person
+- sleeping-person
+- smartphone-person
+- studying-person
+- tv-person
+nc: 7
+roboflow:
+  license: CC BY 4.0
+  project: smartpersonmodels
+  url: https://universe.roboflow.com/smartlight/smartpersonmodels/dataset/2
+  version: 2
+  workspace: smartlight
+test: ../test/images
+train: /content/drive/MyDrive/SmartLight/dataset_new/train.txt
+val: /content/drive/MyDrive/SmartLight/dataset_new/val.txt

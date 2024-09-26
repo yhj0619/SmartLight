@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['studying-person']
+
+roboflow:
+  workspace: smartlight
+  project: studying-person-models
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/smartlight/studying-person-models/dataset/2

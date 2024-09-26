@@ -1,0 +1,12 @@
+names:
+- eating-person
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: eating-person-models
+  url: https://universe.roboflow.com/smartlight/eating-person-models/dataset/2
+  version: 2
+  workspace: smartlight
+test: ../test/images
+train: /content/drive/MyDrive/SmartLight/dataset_eating_add/train.txt
+val: /content/drive/MyDrive/SmartLight/dataset_eating_add/val.txt

@@ -1,0 +1,12 @@
+names:
+- people
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: sleeping-person-models
+  url: https://universe.roboflow.com/smartlight/sleeping-person-models/dataset/3
+  version: 3
+  workspace: smartlight
+test: ../test/images
+train: /content/drive/MyDrive/SmartLight/dataset_sleeping/train.txt
+val: /content/drive/MyDrive/SmartLight/dataset_sleeping/val.txt
